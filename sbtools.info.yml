@@ -1,0 +1,6 @@
+name: Shazbot Tools
+description: Provides common libraries, tools and standards for Shazbot Manager
+package: Shazbot Manager
+
+type: module
+core: 8.x
